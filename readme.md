@@ -4,8 +4,7 @@ https://dsc.gg/The-Ghost-Network
 # Ghost (But its Node!)
 
 
-<img src="./readme/ss.png">
-
+![alt text](image.png)
 
 # Contributers
 
